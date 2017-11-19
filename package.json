@@ -1,0 +1,20 @@
+{
+  "name": "FunctionGrapher",
+  "description": "A function grapher for visualising function",
+  "version": "0.0.1",
+  "keywords": [
+    "infovis"
+  ],
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "Nicolas GERARD",
+    "url": "https://gerardnico.com"
+  },
+  "module": "index",
+  "dependencies": {
+    
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
