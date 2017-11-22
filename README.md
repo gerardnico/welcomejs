@@ -13,6 +13,10 @@ This repository will build a library:
   * exposed as the global variable `welcome`
   * saved in the file `prefix-welcome.js`
   * aggregating two modules (`foo` and `bar`)
+
+The tool used are:
+  * Node for the module dependency
+  * WebPack as builder.
   
 ## Output 
 

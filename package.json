@@ -8,11 +8,11 @@
     "node",
     "library"
   ],
-  "main": "dist/index.js",
+  "main": "dist/prefix-welcome.js",
   "license": "BSD-3-Clause",
   "author": {
     "name": "Nicolas GERARD",
-    "url": "https://gerardnico.com"
+    "url": "https://gerardnico.com/"
   },
   "module": "index.js",
   "dependencies": {},
