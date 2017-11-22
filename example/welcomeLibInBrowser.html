@@ -1,0 +1,17 @@
+<html>
+<!--
+If published in Node
+<script src="https://unpkg.com/myLibrary"></script>
+Otherwised locally
+-->
+<script src="../dist/prefix-welcome.js"></script>
+<body>
+</body>
+<script>
+    // Global variable
+    var welcomeFoo = welcome.foo();
+    // Property in the window object
+    var welcomeBar = window.welcome.bar();
+    document.body.innerHTML = "<h2>"+welcomeFoo+"</h2><h2>"+welcomeBar+"</h2>";
+</script>
+</html>

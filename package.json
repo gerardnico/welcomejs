@@ -1,20 +1,25 @@
 {
-  "name": "FunctionGrapher",
-  "description": "A function grapher for visualising function",
+  "name": "Welcome",
+  "description": "A welcome library",
   "version": "0.0.1",
   "keywords": [
-    "infovis"
+    "getting_started",
+    "webpack",
+    "node",
+    "library"
   ],
+  "main": "dist/index.js",
   "license": "BSD-3-Clause",
   "author": {
     "name": "Nicolas GERARD",
     "url": "https://gerardnico.com"
   },
-  "module": "index",
-  "dependencies": {
-    
-  },
+  "module": "index.js",
+  "dependencies": {},
   "scripts": {
     "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
   }
 }
