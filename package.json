@@ -1,6 +1,6 @@
 {
-  "name": "Welcome",
-  "description": "A welcome library",
+  "name": "welcomejs",
+  "description": "A welcome library where the modules will welcome you (ie the output of a getting started tutorial)",
   "version": "0.0.1",
   "keywords": [
     "getting_started",
@@ -8,11 +8,16 @@
     "node",
     "library"
   ],
+  "homepage": "https://gerardnico.com/wiki/lang/javascript/library_build",
   "main": "dist/prefix-welcome.js",
   "license": "BSD-3-Clause",
   "author": {
     "name": "Nicolas GERARD",
     "url": "https://gerardnico.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerardnico/welcomejs.git"
   },
   "module": "index.js",
   "dependencies": {},
