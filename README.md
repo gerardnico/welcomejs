@@ -42,7 +42,7 @@ See the file [welcomeLibInBrowser.html](./example/welcomeLibInBrowser.html)
 <html>
 <!--
 If published in Node
-<script src="https://unpkg.com/myLibrary"></script>
+<script src="https://unpkg.com/myLisbrary"></script>
 Otherwised locally
 -->
 <script src="../dist/prefix-welcome.js"></script>
@@ -58,3 +58,6 @@ Otherwised locally
 </html>
 ```
 
+
+## Git 
+  * `package-lock.json` should be versionned. npm create it. It's a lockfile that is automatically generated for any operations where npm modifies either the node_modules tree, or package.json. It describes the exact tree that was generated, such that subsequent installs are able to generate identical trees, regardless of intermediate dependency updates.
