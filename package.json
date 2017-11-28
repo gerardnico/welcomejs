@@ -1,7 +1,7 @@
 {
   "name": "welcomejs",
   "description": "A welcome library where the modules will welcome you (ie the output of a getting started tutorial)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "getting_started",
     "webpack",
