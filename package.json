@@ -19,6 +19,12 @@
     "type": "git",
     "url": "https://github.com/gerardnico/welcomejs.git"
   },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "roots": ["<rootDir>/test/"]
+  },
   "module": "index.js",
   "dependencies": {},
   "scripts": {

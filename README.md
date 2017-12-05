@@ -16,9 +16,9 @@ This repository will build a library:
   * testing a method
 
 The tool used are:
-  * Node for the module dependency
-  * WebPack as builder.
-  * Jest as test runner
+  * `npm` for the module dependency
+  * `WebPack` as builder.
+  * [Jest](https://facebook.github.io/jest/) as test runner
   
 ## Output 
 
