@@ -8,7 +8,7 @@
     "node",
     "library"
   ],
-  "homepage": "https://gerardnico.com/wiki/lang/javascript/library_build",
+  "homepage": "https://gerardnico.com/lang/javascript/library_build",
   "main": "dist/prefix-welcome.js",
   "license": "BSD-3-Clause",
   "author": {
@@ -23,7 +23,9 @@
     "testPathIgnorePatterns": [
       "/node_modules/"
     ],
-    "roots": ["<rootDir>/test/"]
+    "roots": [
+      "<rootDir>/test/"
+    ]
   },
   "module": "index.js",
   "dependencies": {},
@@ -37,6 +39,6 @@
     "babel-core": "^6.26.0",
     "babel-jest": "^21.2.0",
     "babel-preset-es2015": "^6.24.1",
-    "jest": "^21.2.1"
+    "jest": "^23.6"
   }
 }
