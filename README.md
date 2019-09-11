@@ -7,7 +7,7 @@ The `welcome` Library is a minimal (getting started) javascript library that wil
 
 The story (or blog) over this repository can be found here:
 
-  * [Javascript - Getting Started - How to develop, publish and use a library ?](https://gerardnico.com/wiki/lang/javascript/library_build)
+  * [Javascript - Getting Started - How to develop, publish and use a library ?](https://gerardnico.com/lang/javascript/library_build)
 
 This repository will build a library:
   * exposed as the global variable `welcome`
